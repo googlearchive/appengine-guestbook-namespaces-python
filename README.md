@@ -1,3 +1,9 @@
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+This project is no longer actively developed or maintained.
+
+For new work on this check out [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/appengine/datastore_namespaces)
+
 # Guestbook with Namespaces
 
 This application implements the Python [Guestbook sample][7] but uses
