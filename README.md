@@ -2,7 +2,7 @@
 
 This project is no longer actively developed or maintained.
 
-For new work on this check out [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/appengine/datastore_namespaces)
+For new work on this check out [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/appengine/multitenancy)
 
 # Guestbook with Namespaces
 
